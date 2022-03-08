@@ -1,4 +1,4 @@
-- Hi, I’m @divos
+- Hi, I’m Leigh
 - I’m interested in cyber security.
 - I’m currently learning Azure management, python automation for testing and DevOps certifications.
 - I’m looking to collaborate on learning.
